@@ -16,6 +16,7 @@ Jinja based minimalist static site generator
 # Resources
 
 - Video: [Jinja2 Templating Engine Tutorial](https://www.youtube.com/watch?v=bxhXQG1qJPM)
+  - Contains detailed instruction set on the experiment directory
 - Jinja Documentation: [Jinja Documentation](https://jinja.palletsprojects.com/en/3.1.x/)
 - Py Markdown
 - [Classless CSS Repository](https://github.com/dbohdan/classless-css)
