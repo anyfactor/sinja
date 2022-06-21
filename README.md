@@ -11,6 +11,13 @@ Jinja based minimalist static site generator
 
 - Work in progress
 
+# Sinja For Github Pages
+
+- Git Hooks with Git Pre-Push
+  - Write markdown file
+  - Git pre-push hooks execute the Python file to include the blog post in the `index.html` template
+  - From markdown `_blog.html` gets generated.
+
 ---
 
 # Resources
